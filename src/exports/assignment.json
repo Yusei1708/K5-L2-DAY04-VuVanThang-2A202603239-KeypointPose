@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603239",
+ "ten": "VuVanThang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "admin",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000292999.jpg",
+  "000000429594.jpg",
+  "000000445187.jpg",
+  "000000451084.jpg",
+  "000000179201.jpg",
+  "000000220045.jpg",
+  "000000302102.jpg",
+  "000000163118.jpg",
+  "000000307757.jpg",
+  "000000269462.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_380639.jpg",
+  "face_421231.jpg",
+  "face_559185.jpg",
+  "face_415073.jpg",
+  "face_442231.jpg",
+  "face_249336.jpg",
+  "face_294580.jpg",
+  "face_175798.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-VuVanThang"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-VuVanThang"
+  },
+  "persons-extra": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-extra-VuVanThang"
+  },
+  "faces-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-extra-VuVanThang"
+  }
+ },
+ "persons_extra": [
+  "000000125998.jpg",
+  "000000196853.jpg",
+  "000000337458.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_300200.jpg",
+  "face_317330.jpg",
+  "face_494518.jpg",
+  "face_68290.jpg"
+ ]
+}
